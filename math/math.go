@@ -1,4 +1,4 @@
-package main
+package math
 
 func main() {
 	result := Add(1, 3)
